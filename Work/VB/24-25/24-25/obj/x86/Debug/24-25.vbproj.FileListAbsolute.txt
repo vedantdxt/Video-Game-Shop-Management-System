@@ -1,0 +1,70 @@
+C:\Work\VB\24-25\24-25\bin\Debug\24-25.exe
+C:\Work\VB\24-25\24-25\bin\Debug\24-25.pdb
+C:\Work\VB\24-25\24-25\bin\Debug\24-25.xml
+C:\Work\VB\24-25\24-25\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Work\VB\24-25\24-25\obj\x86\Debug\24-25.vbproj.GenerateResource.Cache
+C:\Work\VB\24-25\24-25\obj\x86\Debug\24-25.exe
+C:\Work\VB\24-25\24-25\obj\x86\Debug\24-25.xml
+C:\Work\VB\24-25\24-25\obj\x86\Debug\24-25.pdb
+C:\Work\VB\24-25\24-25\obj\x86\Debug\WindowsApplication1.about.resources
+C:\Work\VB\24-25\24-25\obj\x86\Debug\WindowsApplication1.mainmenu.resources
+C:\Work\VB\24-25\24-25\obj\x86\Debug\WindowsApplication1.cust.resources
+C:\Work\VB\24-25\24-25\obj\x86\Debug\WindowsApplication1.emp.resources
+C:\Work\VB\24-25\24-25\obj\x86\Debug\WindowsApplication1.login.resources
+C:\Work\VB\24-25\24-25\obj\x86\Debug\WindowsApplication1.prod.resources
+C:\Work\VB\24-25\24-25\obj\x86\Debug\WindowsApplication1.stock.resources
+C:\Work\VB\24-25\24-25\obj\x86\Debug\24-25.vbprojResolveAssemblyReference.cache
+C:\Work 08-05-2021\VB\24-25\24-25\obj\x86\Debug\24-25.exe
+C:\Work 08-05-2021\VB\24-25\24-25\obj\x86\Debug\24-25.xml
+C:\Work 08-05-2021\VB\24-25\24-25\obj\x86\Debug\24-25.pdb
+C:\Work 08-05-2021\VB\24-25\24-25\obj\x86\Debug\24-25.vbprojResolveAssemblyReference.cache
+C:\Work 08-05-2021\VB\24-25\24-25\obj\x86\Debug\WindowsApplication1.about.resources
+C:\Work 08-05-2021\VB\24-25\24-25\obj\x86\Debug\WindowsApplication1.cust.resources
+C:\Work 08-05-2021\VB\24-25\24-25\obj\x86\Debug\WindowsApplication1.emp.resources
+C:\Work 08-05-2021\VB\24-25\24-25\obj\x86\Debug\WindowsApplication1.login.resources
+C:\Work 08-05-2021\VB\24-25\24-25\obj\x86\Debug\WindowsApplication1.mainmenu.resources
+C:\Work 08-05-2021\VB\24-25\24-25\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Work 08-05-2021\VB\24-25\24-25\obj\x86\Debug\WindowsApplication1.prod.resources
+C:\Work 08-05-2021\VB\24-25\24-25\obj\x86\Debug\WindowsApplication1.stock.resources
+C:\Work 08-05-2021\VB\24-25\24-25\obj\x86\Debug\24-25.vbproj.GenerateResource.Cache
+C:\Work 08-05-2021\VB\24-25\24-25\bin\Debug\24-25.exe
+C:\Work 08-05-2021\VB\24-25\24-25\bin\Debug\24-25.pdb
+C:\Work 08-05-2021\VB\24-25\24-25\bin\Debug\24-25.xml
+C:\Work 08-05-2021\VB\24-25\24-25\bin\Debug\Guna.UI2.dll
+C:\Work\VB\24-25\24-25\bin\Debug\24-25.exe.manifest
+C:\Work\VB\24-25\24-25\bin\Debug\24-25.application
+C:\Work\VB\24-25\24-25\obj\x86\Debug\24-25.exe.manifest
+C:\Work\VB\24-25\24-25\obj\x86\Debug\24-25.application
+E:\Work 10-05-2021\VB\24-25\24-25\obj\x86\Debug\24-25.exe
+E:\Work 10-05-2021\VB\24-25\24-25\obj\x86\Debug\24-25.xml
+E:\Work 10-05-2021\VB\24-25\24-25\obj\x86\Debug\24-25.pdb
+E:\Work 10-05-2021\VB\24-25\24-25\bin\Debug\24-25.exe.manifest
+E:\Work 10-05-2021\VB\24-25\24-25\bin\Debug\24-25.application
+E:\Work 10-05-2021\VB\24-25\24-25\bin\Debug\24-25.exe
+E:\Work 10-05-2021\VB\24-25\24-25\bin\Debug\24-25.pdb
+E:\Work 10-05-2021\VB\24-25\24-25\bin\Debug\24-25.xml
+E:\Work 10-05-2021\VB\24-25\24-25\obj\x86\Debug\24-25.vbprojResolveAssemblyReference.cache
+E:\Work 10-05-2021\VB\24-25\24-25\obj\x86\Debug\WindowsApplication1.about.resources
+E:\Work 10-05-2021\VB\24-25\24-25\obj\x86\Debug\WindowsApplication1.cust.resources
+E:\Work 10-05-2021\VB\24-25\24-25\obj\x86\Debug\WindowsApplication1.emp.resources
+E:\Work 10-05-2021\VB\24-25\24-25\obj\x86\Debug\WindowsApplication1.bill.resources
+E:\Work 10-05-2021\VB\24-25\24-25\obj\x86\Debug\WindowsApplication1.login.resources
+E:\Work 10-05-2021\VB\24-25\24-25\obj\x86\Debug\WindowsApplication1.mainmenu.resources
+E:\Work 10-05-2021\VB\24-25\24-25\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\Work 10-05-2021\VB\24-25\24-25\obj\x86\Debug\WindowsApplication1.prod.resources
+E:\Work 10-05-2021\VB\24-25\24-25\obj\x86\Debug\WindowsApplication1.stock.resources
+E:\Work 10-05-2021\VB\24-25\24-25\obj\x86\Debug\24-25.vbproj.GenerateResource.Cache
+E:\Work 10-05-2021\VB\24-25\24-25\obj\x86\Debug\24-25.exe.manifest
+E:\Work 10-05-2021\VB\24-25\24-25\obj\x86\Debug\24-25.application
+C:\WorkOld\VB\24-25\24-25\obj\x86\Debug\24-25.exe
+C:\WorkOld\VB\24-25\24-25\obj\x86\Debug\24-25.xml
+C:\WorkOld\VB\24-25\24-25\obj\x86\Debug\24-25.pdb
+C:\Work\VB\24-25\24-25\obj\x86\Debug\WindowsApplication1.teguna.resources
+C:\Work\VB\24-25\24-25\obj\x86\Debug\WindowsApplication1.report.resources
+C:\Work\VB\24-25\24-25\obj\x86\Debug\RdlCompile.cache
+C:\Work\VB\24-25\24-25\obj\x86\Debug\RdlCompile.compiled
+C:\Work\VB\24-25\24-25\obj\x86\Debug\WindowsApplication1.CustReportForm.resources
+C:\Work\VB\24-25\24-25\obj\x86\Debug\WindowsApplication1.EmpReportForm.resources
+C:\Work\VB\24-25\24-25\obj\x86\Debug\WindowsApplication1.ProdReportForm.resources
+C:\Work\VB\24-25\24-25\obj\x86\Debug\WindowsApplication1.StockReportForm.resources
+C:\Work\VB\24-25\24-25\obj\x86\Debug\WindowsApplication1.BillReportForm.resources
